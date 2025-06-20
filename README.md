@@ -78,5 +78,3 @@ Let me know if you want:
 - This pushed automatically
 - Help generating a `.gitignore`
 - Instructions for uploading `best.pt` as a release
-
-You're doing great — this is shaping into a solid portfolio!
